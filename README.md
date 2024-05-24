@@ -1,4 +1,5 @@
 # Introduction
 # Background
 # Analysis
-# Conclusion
+# Strategies
+# Closing Remarks
