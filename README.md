@@ -229,4 +229,4 @@ Comparing Transactions:
 
 
 # Closing Remarks
-This project provided the opportunity to discover aspects of the business that can aid in gaining a competitive edge and set it apart from others, highlight areas for possible changes or improvements, and enhance my analytical skills in the sales domain. By conducting this analysis, Maven Roasters management may attain helpful ideas to boost operations and sales.
+This project provided the opportunity to discover aspects of the business that can aid in gaining a competitive edge and set it apart from others, highlight areas for possible changes or improvements, and enhance analytical skills in the sales domain. By conducting this analysis, Maven Roasters management may attain helpful ideas to boost operations and sales.
